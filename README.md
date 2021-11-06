@@ -1,3 +1,3 @@
 # CodingStyleGB
 
-A description of this package.
+Property Wrapper @CodingStyleGB. Домашнее задание к уроку №5.
